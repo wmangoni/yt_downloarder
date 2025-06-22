@@ -1,0 +1,66 @@
+# Byte-compiled / optimized / dll files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.pytype/
+.ipynb_checkpoints/ # Jupyter notebooks
+
+# Distribution / packaging
+.Python
+env/
+venv/
+pip-wheel-metadata/
+dist/
+build/
+*.egg
+*.whl
+
+# Editors
+.idea/                  # JetBrains IDEs (e.g., PyCharm)
+.vscode/                # VS Code
+*.swp                   # Vim swap files
+*.swo                   # Vim swap files
+*~                      # Generic backup files
+.DS_Store               # macOS system files
+
+# OS generated files
+.Trash/
+Thumbs.db
+
+# Project-specific files
+.env                    # Environment variables (sensitive data)
+.flaskenv               # Flask environment variables
+.venv                   # Standard virtual environment directory (duplicate, but good for emphasis)
+instance/               # Flask instance folder (contains sensitive configs sometimes)
+celerybeat-schedule.* # Celery schedule file
+
+# Testing
+.coverage               # Coverage.py files
+.coverage.*
+htmlcov/                # Coverage HTML reports
+
+# Database
+*.sqlite3
+*.db
+*.gdb
+
+# Documentation
+docs/_build/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Logs
+*.log
+logs/
+
+# Miscellaneous
+.history                # VS Code Local History
+
+videos/
+audios/
+captions/
