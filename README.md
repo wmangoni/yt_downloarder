@@ -60,7 +60,7 @@ Salvar em: Clique em "Escolher Pasta..." para selecionar o diretório onde o ví
 ### 📂 Estrutura de Saída
 
 Quando você baixa um vídeo, a aplicação criará a seguinte estrutura de pastas no diretório de saída que você escolher:
-
+```
 seu_diretorio_de_saida/
 ├── videos/
 │   └── Nome Do Video.mp4
@@ -69,6 +69,7 @@ seu_diretorio_de_saida/
 └── captions/
     ├── Nome Do Video_pt_caption.txt (ou .srt se alterado)
     └── Nome Do Video_en_caption.txt (ou .srt se alterado)
+```
 
 ### ⚠️ Tratamento de Erros
 
