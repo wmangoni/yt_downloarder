@@ -32,7 +32,7 @@ No Windows: Baixe a versão mais recente do ffmpeg em ffmpeg.org e adicione o di
 No macOS (com Homebrew): brew install ffmpeg
 No Linux (Ubuntu/Debian): sudo apt update && sudo apt install ffmpeg
 Executando a Aplicação
-Clone o repositório (ou baixe o arquivo youtube_downloader_app.py):
+Clone o repositório (ou baixe o arquivo main.py):
 
 Bash
 
